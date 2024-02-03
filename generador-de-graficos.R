@@ -1,5 +1,3 @@
-#install.packages("Rserve")
-library(Rserve)
 library(dplyr)
 
 # esto me da los nombres de las columnas de las tablas que importemos
